@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Quân\JAVA_FILE\java_fingerspeed\java_fingerspeed.jar</jar>
+  <outfile>C:\Users\Quân\JAVA_FILE\java_fingerspeed\Fingerspeed.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>high</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Quân\JAVA_FILE\java_fingerspeed\Image\icon.ico</icon>
+  <singleInstance>
+    <mutexName>Fingerspeed</mutexName>
+    <windowTitle>Fingerspeed</windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>App_fingerspeed.file.main</mainClass>
+  </classPath>
+  <jre>
+    <path>C:\Program Files\Java\jdk-18.0.2.1</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>8</minVersion>
+    <maxVersion>20</maxVersion>
+  </jre>
+</launch4jConfig>
