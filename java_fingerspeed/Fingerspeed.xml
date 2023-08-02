@@ -23,9 +23,9 @@
   </classPath>
   <jre>
     <path>C:\Program Files\Java\jdk-18.0.2.1</path>
-    <requiresJdk>true</requiresJdk>
-    <requires64Bit>true</requires64Bit>
-    <minVersion>17</minVersion>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>8</minVersion>
     <maxVersion></maxVersion>
   </jre>
 </launch4jConfig>
